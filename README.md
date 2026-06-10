@@ -8,5 +8,5 @@ I am a Cybersecurity & IT Infrastructure student based in Bangkok, focusing on d
 * **Languages:** Chinese (Native), English (Professional), Thai (Conversational)
 
 ### My Portfolio Repositories
-* **[Security-Assessments](link-to-repo):** Technical reports covering Stored XSS, UNION SQLi, Malware Static Analysis, and Infrastructure Enumeration.
-* **[Certifications](link-to-repo):** Verified Cisco networking credentials.
+* **[Security-Assessments](https://github.com/Edison3060/Security-Assessments):** Technical reports covering Stored XSS, UNION SQLi, Malware Static Analysis, and Infrastructure Enumeration.
+* **[Certifications](https://github.com/Edison3060/Certifications):** Verified Cisco networking credentials.
