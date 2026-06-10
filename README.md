@@ -9,4 +9,4 @@ I am a Cybersecurity & IT Infrastructure student based in Bangkok, focusing on d
 
 ### My Portfolio Repositories
 * **[Security-Assessments](https://github.com/Edison3060/Security-Assessments):** Technical reports covering Stored XSS, UNION SQLi, Malware Static Analysis, and Infrastructure Enumeration.
-* **[Certifications](https://github.com/Edison3060/Certifications):** Verified Cisco networking credentials.
+* **[Certifications](https://github.com/Edison3060/Certifications):** Verified Cisco networking and TryHackMe certificates.
